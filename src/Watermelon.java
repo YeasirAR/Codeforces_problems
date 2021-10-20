@@ -5,14 +5,11 @@ public class Watermelon {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
         scanner.close();
-        if(n == 2){
+        if(n == 2)
             System.out.println("No");
-        }
-        else if(n%2 == 0){
+        else if(n%2 == 0)
             System.out.println("Yes");
-        }
-        else {
+        else
             System.out.println("No");
-        }
     }
 }
