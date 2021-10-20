@@ -5,6 +5,7 @@ public class Domino_Piling_50A {
         Scanner sc = new Scanner(System.in);
         int m = sc.nextInt();
         int n = sc.nextInt();
+        sc.close();
         System.out.println((m*n)/2);
     }
 }

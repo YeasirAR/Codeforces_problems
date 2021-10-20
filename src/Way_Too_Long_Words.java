@@ -16,5 +16,6 @@ public class Way_Too_Long_Words {
         for (String s : arr){
             System.out.println(s);
         }
+        sc.close();
     }
 }

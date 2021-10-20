@@ -24,6 +24,7 @@ public class Next_Round_158A {
                 break;
             }
         }
+        sc.close();
         System.out.println(count);
     }
 }

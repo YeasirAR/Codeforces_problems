@@ -11,6 +11,7 @@ public class Team_231A {
                 count++;
             }
         }
+        sc.close();
         System.out.println(count);
     }
 }
